@@ -513,6 +513,9 @@ local servers = {
   pyright = {},
   puppet = {},
   terraformls = {},
+  powershell_es = {
+    bundle_path = 'C:/Users/rober/AppData/Local/nvim-data/psedit/PowerShellEditorServices',
+  },
   -- rust_analyzer = {},
   -- tsserver = {},
 
